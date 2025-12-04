@@ -17,12 +17,12 @@ This repository is organized by tasks, with each task focusing on specific progr
 CS-IEEE-ZSB'26-Rookies/
 │
 ├── Task-1/
-│   ├── A.cpp
-│   ├── B.cpp
-│   ├── C.cpp
-│   ├── D.cpp
-│   ├── E.cpp
-│   └── F.cpp
+│   ├── A.py
+│   ├── B.py
+│   ├── C.py
+│   ├── D.py
+│   ├── E.py
+│   └── F.py
 │
 └── (Additional tasks coming soon)
 ```
