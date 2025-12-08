@@ -10,6 +10,7 @@ This is my personal repository for the CS-IEEE-ZSB'26 Rookies training program. 
 
 This repository is organized by tasks, with each task focusing on specific programming concepts and problem-solving techniques:
 - **Task-1**: Standard Template Library (STL) problems - [View Solutions](https://github.com/MoMo790-m/CS-IEEE-ZSB-26-Rookies/tree/main/Task-1)
+- **Task-2**: Prefix Sum problems - [View Solutions](https://github.com/MoMo790-m/CS-IEEE-ZSB-26-Rookies/tree/main/Task-2)
 - Additional tasks will be added as I progress through the program
 
 ## Directory Structure
@@ -17,12 +18,20 @@ This repository is organized by tasks, with each task focusing on specific progr
 CS-IEEE-ZSB'26-Rookies/
 │
 ├── Task-1/
-│   ├── A.py
-│   ├── B.py
-│   ├── C.py
-│   ├── D.py
-│   ├── E.py
-│   └── F.py
+│   ├── A.cpp
+│   ├── B.cpp
+│   ├── C.cpp
+│   ├── D.cpp
+│   ├── E.cpp
+│   └── F.cpp
+│
+├── Task-2/
+│   ├── A.cpp
+│   ├── B.cpp
+│   ├── C.cpp
+│   ├── D.cpp
+│   ├── E.cpp
+│   └── F.cpp
 │
 └── (Additional tasks coming soon)
 ```
@@ -30,7 +39,7 @@ CS-IEEE-ZSB'26-Rookies/
 ## Progress Tracker
 
 - [x] Task-1 - STLs (Completed)
-- [ ] Task-2 - In Progress
+- [x] Task-2 - Prefix Sum (Completed)
 - [ ] Task-3 - Upcoming
 
 ## Contact
